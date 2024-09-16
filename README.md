@@ -15,5 +15,12 @@ This project is focused on predicting health insurance premiums using a dataset 
 * Streamlit Web App: Provides an interactive UI for users to input personal information and predict their health insurance premium in real time.
 
 #### Project Files:
+* Shield_insurance_premium_older_with_gr.ipynb : This notebook analyzes insurance premiums for older age groups(age > 25), exploring factors that influence premium rates based on demographic data.
+* Shield_insurance_premium_younger_with_gr.ipynb : This notebook analyzes insurance premiums for older age groups(age <= 25), exploring factors that influence premium rates based on demographic data.
 * main.py: Contains the Streamlit application code, handling the UI and model integration.
 * prediction_helper.py: Helper functions used to preprocess data and make predictions.
+
+#### Technology Stack
+* Programming Language: Python
+* Libraries: pandas, numpy, scikit-learn, xgboost, Streamlit, matplotlib, seaborn
+* Deployment: Streamlit Cloud
