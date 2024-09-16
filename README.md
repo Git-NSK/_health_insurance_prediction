@@ -14,7 +14,7 @@ XGBRegressor (provided the best performance)
 Hyperparameter Tuning: Used RandomizedSearchCV and GridSearchCV to find optimal model parameters.
 Streamlit Web App: Provides an interactive UI for users to input personal information and predict their health insurance premium in real time.
 
-####Project Files:
+#### Project Files:
 main.py: Contains the Streamlit application code, handling the UI and model integration.
 ml_premium_prediction.ipynb: Jupyter notebook used for data analysis, model training, and testing.
 prediction_helper.py: Helper functions used to preprocess data and make predictions.
