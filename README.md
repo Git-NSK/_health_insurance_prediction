@@ -24,3 +24,7 @@ This project is focused on predicting health insurance premiums using a dataset 
 * Programming Language: Python
 * Libraries: pandas, numpy, scikit-learn, xgboost, Streamlit, matplotlib, seaborn
 * Deployment: Streamlit Cloud
+
+#### Click the below link to run the app
+[Health Insurance Premium Predictor](https://shield-health-insurance-prediction.streamlit.app/)
+
